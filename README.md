@@ -7,3 +7,7 @@ in visual studio code make a bot that can have a few comands that he replies on.
 4. ![stop-pollution-sign-smokestacks-environmental-pollution-poster-vector-illustration-62958364](https://github.com/user-attachments/assets/325c1ccc-0678-437f-954a-84bd1713ec9a)  *avatar pick*.
 5. /how_to_recycle_more_often
 6. /how_to_use_less_plastic
+7./how_to_start_recycling
+8./<img width="740" height="1110" alt="image" src="https://github.com/user-attachments/assets/f0a9ae45-9876-42c5-8a09-9760bfcf457f" />
+9./help
+10./inviroment
